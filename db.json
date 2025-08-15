@@ -119,6 +119,33 @@
           ]
         }
       ]
+    },
+    {
+      "id": "cb87",
+      "name": "Quentin Tarantino",
+      "bio": "Quentin Jerome Tarantino was born in Knoxville, Tennessee. His father, Tony Tarantino, is an Italian-American actor and musician from New York, and his mother, Connie (McHugh), is a nurse from Tennessee. Quentin moved with his mother to Torrance, California, when he was four years old.",
+      "movies": [
+        {
+          "id": "314f086a-fdea-47ca-8ce5-7f68c0d3bc2c",
+          "title": "Pulp Fiction",
+          "time": 154,
+          "genres": [
+            "Drama",
+            "Crime",
+            "Dark Comedy"
+          ]
+        },
+        {
+          "id": "66363795-fda2-479f-842d-4ac09e1f76f3",
+          "title": "Inglourious Basterds",
+          "time": 153,
+          "genres": [
+            "Period Drama",
+            "War",
+            "Dark Comedy"
+          ]
+        }
+      ]
     }
   ]
 }
